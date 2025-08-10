@@ -1,0 +1,3 @@
+[submodule "Hardware-Library"]
+    path = MCAD/hardware-Library
+    url = https://github.com/OpenIndustrialControl/Hardware-Library.git
